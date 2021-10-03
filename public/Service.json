@@ -1,0 +1,75 @@
+[
+    {
+        "key": "1",
+        "Name": "PROFESSIONAL GRAPHICS DESIGN",
+        "Duration": "4 Month",
+        "About": "The Professional Graphics Design course is a certificate course that requires students to plan and execute the design of visual communication according to the need of audiences in the context for which communication is intended. This course is specially designed to provide technical knowledge in Adobe Photoshop and Adobe Illustrator and skills to cope with the requirement of Graphics Designer occupations of the IT sector.",
+        "CourseFee": "20,000/=Tk",
+        "img": "https://srinstituteofdesign.com/wp-content/uploads/2020/11/GD.jpg"
+    },
+   
+    {
+        "key": "2",
+        "Name": "WEB DESIGN & FREELANCING",
+        "Duration": "4 Month",
+        "About": "Build your own Freelance Web Design Website and portfolio in this course to get clients contacting you about your web design service! The overall course process will teach you how to incorporate impressive features on your websites for your clients. Additionally, this course will show you where you can market your business for free and also how you can pay for targeted marketing.",
+        "CourseFee": "30,000/=Tk",
+        "Country": "Bangladesh",
+        "Salary": 260,
+        "img": "http://srinstituteofdesign.com/wp-content/uploads/2020/11/WD.jpg"
+    },
+ {
+        "key": "3",
+        "Name": "3D ANIMATION & VISUAL F/X",
+        "Duration": "4 /6 Month",
+        "About": "The Professional Graphics Design course is a certificate course that requires students to plan and execute the design of visual communication according to the need of audiences in the context for which communication is intended. This course is specially designed to provide technical knowledge in Adobe Photoshop and Adobe Illustrator and skills to cope with the requirement of Graphics Designer occupations of the IT sector.",
+        "CourseFee": "40,000/=Tk",
+       
+        "img": "http://srinstituteofdesign.com/wp-content/uploads/2020/12/New-Project-2.jpg"
+    },
+    {
+        "key": "4",
+        "Name": "ARCHITECTURAL VISUALIZATIONS",
+        "Duration": "6 Month",
+        "About": "We have recently noticed that there are more and more people who consider taking a course on3D, so we want to take the opportunity to let you learn about the key aspects that any future student should take into account to receive a successful architectural visualization training course. Taking an architectural visualization training course will bring you working opportunities, as well as more and of a higher quality prospect. You will be able to learn architectural with all essential software which allows reaching amazing.",
+        "CourseFee": "35,000/=Tk",
+       
+        "img": "http://srinstituteofdesign.com/wp-content/uploads/2020/12/New-Project-1-1.jpg"
+    },
+    {
+        "key": "5",
+        "Name": "TVC-TV COMMERCIALS",
+        "Duration": "5 Month",
+        "About": "The TVC-Television Commercial Course is designed for those who are interested in building an exciting career in the field of film making and media production. This program associates with several software-based training sessions by which you can produce a quality work project. In this course student will get hands on training in creating methodically, construct and deliver digital audio, video and motion graphic. Further on they will have the opportunity to be familiar with handling very high tech advanced professional equipment.",
+        "CourseFee": "25,000/=Tk",
+       
+        "img": "http://srinstituteofdesign.com/wp-content/uploads/2020/12/New-Project-1-1.jpg"
+    },
+    {
+        "key": "6",
+        "Name": "MOTION GRAPHICS & VISUAL F/X",
+        "Duration": "6 Month",
+        "About": "Our Motion Graphics & Visual F/X Course is a modern, hands-on training program that combines digital technology and creative design. It has been developed to equip you with the theory and practical skills required by the visual effects and motion graphics sector within the entertainment and creative industries. The course is a mixture of theory and interactive practical sessions supported by live project briefs provided by our experienced lecturers.",
+        "CourseFee": "45,000/=Tk",
+       
+        "img": "http://srinstituteofdesign.com/wp-content/uploads/2020/12/New-Project-3.jpg"
+    },
+    {
+        "key": "7",
+        "Name": "DIGITAL MARKETING",
+        "Duration": "3 Month",
+        "About": "The TVC-Television Commercial Course is designed for those who are interested in building an exciting career in the field of film making and media production. This program associates with several software-based training sessions by which you can produce a quality work project. In this course student will get hands on training in creating methodically, construct and deliver digital audio, video and motion graphic. Further on they will have the opportunity to be familiar with handling.",
+        "CourseFee": "15,000/=Tk",
+       
+        "img": "http://srinstituteofdesign.com/wp-content/uploads/2020/11/DM-600x332.jpg"
+    },
+    {
+        "key": "8",
+        "Name": "CREATIVE FINE ARTS APPLICATION",
+        "Duration": "6 Month",
+        "About": "The TVC-Television Commercial Course is designed for those who are interested in building an exciting career in the field of film making and media production. This program associates with several software-based training sessions by which you can produce a quality work project. In this course student will get hands on training in creating methodically, construct and deliver digital audio, video and motion graphic. Further on they will have the opportunity to be familiar with handling.",
+        "CourseFee": "35,000/=Tk",
+       
+        "img": "http://srinstituteofdesign.com/wp-content/uploads/2020/12/New-Project-4-600x332.jpg"
+    }
+]

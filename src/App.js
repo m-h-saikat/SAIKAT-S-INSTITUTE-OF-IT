@@ -11,12 +11,19 @@ import AboutUs from './Component/About/AboutUs';
 import Service from './Component/Service/Service';
 import Contact from './Component/Contact/Contact';
 import NotFound from './Component/NotFound/NotFound';
+import Header from './Component/Header/Header';
+import Footer from './Component/Footer/Footer';
 
 function App() {
   return (
     <div className="App">
+     
       <Router>
+      <Header> </Header>
     <Switch>
+    <Route exact path="/">
+              <Home></Home>
+            </Route>
           <Route exact path="/Home">
            <Home></Home>
          </Route>
@@ -34,6 +41,7 @@ function App() {
               <NotFound></NotFound>
             </Route>
         </Switch>
+        <Footer></Footer>
      
     </Router>
   

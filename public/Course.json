@@ -1,0 +1,30 @@
+[
+    {
+        "key": "1",
+        "Name": "PROFESSIONAL GRAPHICS DESIGN",
+        "Duration": "4 Month",
+        "About": "The Professional Graphics Design course is a certificate course that requires students to plan and execute the design of visual communication according to the need of audiences in the context for which communication is intended. This course is specially designed to provide technical knowledge in Adobe Photoshop and Adobe Illustrator and skills to cope with the requirement of Graphics Designer occupations of the IT sector.",
+        "CourseFee": "20,000/=Tk",
+        "img": "https://srinstituteofdesign.com/wp-content/uploads/2020/11/GD.jpg"
+    },
+   
+    {
+        "key": "2",
+        "Name": "WEB DESIGN & FREELANCING",
+        "Duration": "4 Month",
+        "About": "Build your own Freelance Web Design Website and portfolio in this course to get clients contacting you about your web design service! The overall course process will teach you how to incorporate impressive features on your websites for your clients. Additionally, this course will show you where you can market your business for free and also how you can pay for targeted marketing.",
+        "CourseFee": "30,000/=Tk",
+        "Country": "Bangladesh",
+        "Salary": 260,
+        "img": "http://srinstituteofdesign.com/wp-content/uploads/2020/11/WD.jpg"
+    },
+ {
+        "key": "3",
+        "Name": "3D ANIMATION & VISUAL F/X",
+        "Duration": "4 /6 Month",
+        "About": "The Professional Graphics Design course is a certificate course that requires students to plan and execute the design of visual communication according to the need of audiences in the context for which communication is intended. This course is specially designed to provide technical knowledge in Adobe Photoshop and Adobe Illustrator and skills to cope with the requirement of Graphics Designer occupations of the IT sector.",
+        "CourseFee": "40,000/=Tk",
+       
+        "img": "http://srinstituteofdesign.com/wp-content/uploads/2020/12/New-Project-2.jpg"
+    }
+]

@@ -1,0 +1,19 @@
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .items:hover {
+    color: rgb(5, 160, 221);
+  }
+  .navlink{
+      display: flex;
+  }
+  .header{
+      background-color: rgb(29, 28, 28);
+  }
