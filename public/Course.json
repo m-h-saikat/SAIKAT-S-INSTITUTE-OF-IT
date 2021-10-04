@@ -26,5 +26,14 @@
         "CourseFee": "40,000/=Tk",
        
         "img": "http://srinstituteofdesign.com/wp-content/uploads/2020/12/New-Project-2.jpg"
+    },
+    {
+        "key": "4",
+        "Name": "ARCHITECTURAL VISUALIZATIONS",
+        "Duration": "6 Month",
+        "About": "We have recently noticed that there are more and more people who consider taking a course on3D, so we want to take the opportunity to let you learn about the key aspects that any future student should take into account to receive a successful architectural visualization training course. Taking an architectural visualization training course will bring you working opportunities, as well as more and of a higher quality prospect. You will be able to learn architectural with all essential software which allows reaching amazing.",
+        "CourseFee": "35,000/=Tk",
+       
+        "img": "http://srinstituteofdesign.com/wp-content/uploads/2020/12/New-Project-1-1.jpg"
     }
 ]
