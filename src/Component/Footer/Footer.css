@@ -1,27 +1,29 @@
+.footer-menu {
+  list-style: none;
+  margin-top: 20px;
+  font-size: 20px;
 
-
-  .footer-menu {
-    list-style: none;
-    margin-top: 20px;
-    font-size: 20px;
-
-    cursor: pointer;
-  }
-  .footer-menu:hover {
-    color: rgb(35, 184, 184);
-  }
-  .footer-input {
-    padding-left: 18px;
-    border: none;
-    border-radius: 20px;
-    outline: none;
-    background-color: rgb(253, 253, 253);
-  }
-  .footer-container {
-    background-color: #191919;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 50px;
-    color: rgb(216, 209, 209);
-  }
- 
+  cursor: pointer;
+}
+.footer-menu:hover {
+  color: rgb(35, 184, 184);
+}
+.footer-input {
+  padding-left: 18px;
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  background-color: rgb(253, 253, 253);
+}
+.footer-container {
+  background-color: #191919;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  color: rgb(216, 209, 209);
+}
+input {
+  margin-right: 10px;
+  padding: 5px;
+  margin-top: 10px;
+}

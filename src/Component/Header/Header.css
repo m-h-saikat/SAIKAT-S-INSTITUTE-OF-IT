@@ -1,23 +1,29 @@
 .items {
-    list-style: none;
-    margin-right: 30px;
-    font-size: 22px;
-    font-weight: 500;
-    color: rgb(255, 255, 255);
-    margin-top: 10px;
-    cursor: pointer;
-    padding: 5px;
-    text-decoration: none;
-  }
-  .items:hover {
-    color: rgb(5, 160, 221);
-  }
-  .navlink{
-      display: flex;
-  }
-  .header{
-      background-color: rgb(2, 1, 19);
-  }
-  .logo{
-    border-radius: 40px;
-  }
+  list-style: none;
+  margin-right: 30px;
+  font-size: 22px;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+  margin-top: 10px;
+  cursor: pointer;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.navlink {
+  display: flex;
+}
+.header {
+  background-color: rgb(5, 5, 46);
+}
+.logo {
+  border-radius: 40px;
+}
+.btn:hover {
+  background-color: yellow;
+}
+.btn {
+  background-color: white;
+  border-radius: 30px;
+  font-weight: 700;
+}

@@ -1,0 +1,9 @@
+.cart-Button {
+  background-color: rgb(5, 5, 46) !important;
+  color: white !important;
+  font-size: 1.1em !important;
+}
+.cart-Button:hover {
+  background-color: rgb(209, 211, 73) !important;
+  color: black !important;
+}

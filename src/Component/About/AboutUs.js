@@ -4,7 +4,7 @@ const AboutUs = () => {
     return (
         
         <div className="  p-4 AboutUs-Section  ">
-            <h1 className="m-5 text-danger"><b>WELCOME TO SAIKAT'S INSTITUTE OF IT</b> 
+            <h1 className="m-5 text-danger"><b>WHY CHOOSE US</b> 
             <hr /></h1>
          
            <div className="container  d-flex">

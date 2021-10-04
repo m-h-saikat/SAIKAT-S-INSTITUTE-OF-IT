@@ -1,19 +1,16 @@
-import React from 'react';
-import Footer from '../Footer/Footer';
-import Header from '../Header/Header';
-import ShortServiceList from '../ShortServiceList/ShortServiceList';
+import React from "react";
+import Footer from "../Footer/Footer";
+import Header from "../Header/Header";
+import ShortServiceList from "../ShortServiceList/ShortServiceList";
 
 const Home = () => {
-    
-    return (
-        <div>
-          <div>
-     
-      <ShortServiceList></ShortServiceList>
-   
+  return (
+    <div>
+      <div>
+        <ShortServiceList></ShortServiceList>
+      </div>
     </div>
-        </div>
-    );
+  );
 };
 
 export default Home;

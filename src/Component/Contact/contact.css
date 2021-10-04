@@ -1,20 +1,11 @@
-.contact{
-   
-    padding: 10px;
-    margin:10px;
-    background-color:rgb(2, 3, 0);
-    border-radius:20px;
-    border:2px solid rgb(81, 209, 81);
-    color: aliceblue;
-   
+.contact {
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(2, 3, 0);
+  border-radius: 20px;
+  border: 2px solid rgb(81, 209, 81);
+  color: aliceblue;
 }
-
-
-
-.contact:hover{
-  
-        transform:scale(1.03);
-    
-    
-     
+.contact:hover {
+  transform: scale(1.03);
 }
