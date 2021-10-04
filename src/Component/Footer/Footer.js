@@ -8,17 +8,17 @@ const Footer = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-5">
-              <div className="left-container text-start">
-                <h1>Saikat's Institute of IT</h1>
+              <div className="left-container text-center">
+                <h1>SAIKAT'S  INSTITUTE OF IT</h1>
               
                 <p className="mt-4 ">
                   <small>
-                    *These statements have not been evaluated by the IT Company. 
+                    These statements have not been evaluated by the IT Company. 
                   </small>
                 </p>
 
                 <p className="mt-5">
-                  <small>Saikat © . All rights reserved.</small>
+                  <small>Saikat ©All rights reserved.</small>
                 </p>
               </div>
             </div>
@@ -39,7 +39,7 @@ const Footer = () => {
                 <input
                   className="footer-input"
                   type="text"
-                  placeholder="Enter Email"
+                  placeholder="Enter Your Email"
                 />
                 <div className="phone d-flex align-items-center justify-content-center mt-4">
                   
@@ -59,6 +59,7 @@ const Footer = () => {
               </div>
             </div>
           </div>
+      
         </div>
       </div>
     </div>

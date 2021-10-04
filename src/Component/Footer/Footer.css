@@ -1,35 +1,27 @@
-.icon {
-    margin: 5px;
-    padding: 5px;
-    background-color: rgb(46, 46, 46);
-    /* border-radius: 5px; */
-    color: rgb(155, 155, 155);
-    font-size: 30px;
-  }
-  .icon:hover {
-    background-color: rgb(250, 25, 25);
-  }
+
+
   .footer-menu {
     list-style: none;
     margin-top: 20px;
-    font-size: 16px;
+    font-size: 20px;
+
     cursor: pointer;
   }
   .footer-menu:hover {
-    color: red;
+    color: rgb(35, 184, 184);
   }
   .footer-input {
-    padding: 8px;
+    padding-left: 18px;
     border: none;
+    border-radius: 20px;
     outline: none;
-    background-color: gray;
+    background-color: rgb(253, 253, 253);
   }
   .footer-container {
     background-color: #191919;
-    padding: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
     color: rgb(216, 209, 209);
   }
-  .foter-phone-icon {
-    font-size: 30px;
-    color: red;
-  }
+ 

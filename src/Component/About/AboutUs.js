@@ -1,23 +1,31 @@
 import React from 'react';
-
+import './AboutUs.css'
 const AboutUs = () => {
     return (
         
-        <div className="container ">
-            <h1 className="m-5">WELCOME TO Saikat Institute of IT</h1>
-           <div className="container d-flex">
-           <div className="m-5">
-           100% বৃত্তিতে আইটি কোর্স করে সরকারি সার্টিফিকেট অর্জনের সুযোগ যা সরকারি চাকরির জন্য অন্যতম সহায়ক। ‼
+        <div className="  p-4 AboutUs-Section  ">
+            <h1 className="m-5 text-danger"><b>WELCOME TO SAIKAT'S INSTITUTE OF IT</b> 
+            <hr /></h1>
+         
+           <div className="container  d-flex">
+           <div className="p-5 col-md-6 mx-auto ">
+           Opportunity to get government certificate by doing IT course in 100% scholarship which is one of the most helpful for government job. R SAIKAT'S INSTITUTE OF IT, one of the leading IT and Vocational Training Providers in the country affiliated to the Technical Education Board of Bangladesh. Students are being admitted on the basis of merit in a limited number of seats prescribed by the Bangladesh Technical Education Board. December-January sessionJune-July session.
+           </div>
+           <div className="p-5 col-md-6 mx-auto ">
+           The syllabus formulation of these courses, examination control and issuance of certificates etc. are regulated by the Bangladesh Board of Technical Education. SR INSTITUTE OF DESIGN provides 100% scholarships to poor and meritorious students in various courses.
 
-বাংলাদেশ কারিগরি শিক্ষা বোর্ড অধিভূক্ত দেশের অন্যতম শীর্ষস্থানীয় তথ্যপ্রযুক্তি ও প্রফেশনাল প্রশিক্ষণ প্রদানকারী প্রতিষ্ঠান SR INSTITUTE OF DESIGN এ দেশের শিক্ষিত বেকার যুবক/যুবমহিলাদের দক্ষ জনবল তথা আত্ম কর্মসংস্থানের উপযোগী হিসাবে গড়ে তুলতে বাংলাদেশ কারিগরি শিক্ষা বোর্ড অধীভূক্ত ৩/৬ মাস মেয়াদি নিম্নলিখিত বেসিক ট্রেড কোর্স সমূহে বাংলাদেশ কারিগরি শিক্ষা বোর্ড নির্ধারীত সীমিত সংখ্যক আসনে মেধার ভিত্তিতে ছাত্র-ছাত্রী ভর্তি চলছে। ডিসেম্বর-জানুয়ারি সেশনজুন-জুলাই সেশন .
-           </div>
-           <div className="m-5">
-           এই কোর্স গুলোর সিলেবাস প্রনয়ন, পরীক্ষা নিয়ন্ত্রন ও সার্টিফিকেট প্রদান প্রভৃতি বাংলাদেশ কারিগরি শিক্ষা বোর্ড কর্তৃক নিয়ন্ত্রিত। SR INSTITUTE OF DESIGN পরিচালিত বিভিন্ন কোর্সে দরিদ্র ও মেধাবী ছাত্র/ছাত্রীদেরকে 100% বৃত্তি প্রদান করে থাকে।
-
-ন্যুনতম এস.এস.সি পাশ যে কোন বয়সের যে কেউ এই কোর্স গুলোতে ভর্তি হতে পারবে । প্রফেশনাল প্রশিক্ষন প্রদানের মাধ্যমে SR INSTITUTE OF DESIGN বিগত ৭ বছরে হাজার হাজার বেকার যুবক/যুবমহিলাদের কর্মপযোগী করে গড়ে তুলেছে যাদের অনেকেই এখন স্ব-স্ব ক্ষেত্রে প্রতিষ্ঠিত। আগ্রহী প্রার্থীদের অতি শীঘ্রই যোগাযোগ এবং নির্ধারিত ফর্ম এ আবেদন করার জন্য অনুরোধ করা হল।
+Anyone of any age who has passed the minimum SSC can be admitted in these courses. SAIKAT'S INSTITUTE OF IT has provided professional training to thousands of unemployed youth in the last 8 years, many of whom are now established in their respective fields. Interested candidates are requested to contact as soon as possible and apply in the prescribed form.
            </div>
            </div>
+          
         </div>
+
+
+
+
+
+
+
     );
 };
 

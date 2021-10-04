@@ -4,6 +4,7 @@
     font-size: 22px;
     font-weight: 500;
     color: rgb(255, 255, 255);
+    margin-top: 10px;
     cursor: pointer;
     padding: 5px;
     text-decoration: none;
@@ -15,5 +16,8 @@
       display: flex;
   }
   .header{
-      background-color: rgb(29, 28, 28);
+      background-color: rgb(2, 1, 19);
+  }
+  .logo{
+    border-radius: 40px;
   }
