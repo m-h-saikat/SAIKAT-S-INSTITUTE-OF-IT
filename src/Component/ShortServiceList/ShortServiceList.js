@@ -24,7 +24,7 @@ const ShortServiceList = () => {
        <img src={image} alt="" width="100%"/>
     </div>
     <div className="col-md-6 container p-5 my-auto mx-auto">
-    <h1 className="text-danger">WELCOME TO SAIKAT'S INSTITUTE OF IT</h1>  
+    <h1 className="text-danger" ><b>WELCOME TO <br/> SAIKAT'S INSTITUTE OF IT</b> </h1>  
 <p>SAIKAT'S INSTITUTE OF IT ,a famous computer training school in Dhaka. It’s an ideal training Institute  for Learner’s to  design their carrier with the combination of their ambition to make them a successful skilled person with a stunning and bright future.It was established in 7th January 2012 in a small premises with the inspiration of an wonderful creative person SAIKAT, the Executive Director of SAIKAT'S INSTITUTE OF IT, Which was a dream project of him.</p> 
     </div>
 </div>  </div>
@@ -43,10 +43,10 @@ const ShortServiceList = () => {
                     <img src={service.img} className="img-fluid rounded" alt="..." />
                     <div className="card-body">
                         <h5 className="card-title text-danger"><b>{service.Name}</b> </h5>
-                        <p className="card-text">{service.Duration}</p>
+                        <p className="card-text mt-3">{service.Duration}</p>
                     </div>
                     <div className="card-footer">
-                        <p className="card-text"> {service.CourseFee}</p>
+                        <p className="card-text text-primary "> <strong>{service.CourseFee}</strong> </p>
                     </div>
                 </div>
             </div>)

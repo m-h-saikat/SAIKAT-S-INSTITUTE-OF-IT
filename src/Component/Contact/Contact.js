@@ -1,17 +1,22 @@
 import React from 'react';
-
-const Contact = (props) => {
-    console.log(props.service);
+import contactImg from '../../Image/contactUs.jpg'
+import './contact.css'
+const Contact = () => {
+   
     return (
-        <div className="container text-center">
-          
-         
-          <h2 > CONTACT ADDRESS</h2> <hr />
-<p>Mohammadia Super Market (Label-3), Dhanmondi – 28, Dhaka – 1209, Dhaka, Bangladesh.
-<br /> Phone: +88 02-48110675 <br />
-Mobile: +880 01919414153 <br />
-Email: info@srinstituteofdesign.com <br />
-Website: www.srinstituteofdesign.com</p>
+        <div className=" ">
+         <div>
+         <img src={contactImg} alt="" className="img-fluid w-100"/>
+         </div>
+         <div className=" text-center container d-flex  mx-auto justify-content-center">
+             <div className="contact border border-light"><h4>Email Here <hr />
+             saikat@gmail.com</h4></div>
+             <div className="contact border border-light"><h4>Location Here <hr />  
+             Dhanmondi , Dhaka-1630</h4></div>
+             <div className="contact border border-light"><h4>Call Here <hr />
+             +880196-12644444</h4></div>
+
+         </div>
 
         </div>
     );

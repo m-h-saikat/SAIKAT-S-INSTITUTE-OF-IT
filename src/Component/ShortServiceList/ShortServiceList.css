@@ -1,11 +1,12 @@
-.details-container {
-    background-color: rgb(126, 113, 113);
-  }
-  .details-teams {
-    padding: 20px;
-  }
+
   .Home-Section{
     background-color: #171C5E;
     color: #fff;
     font-size:1.3em;
+  }
+  .card:hover{
+    transform:scale(1.03);
+    border-color: #171C5E;
+    border-width: 4px;
+
   }
