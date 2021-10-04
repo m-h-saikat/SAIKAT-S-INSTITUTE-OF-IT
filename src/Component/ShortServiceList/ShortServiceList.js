@@ -46,7 +46,7 @@ const ShortServiceList = () => {
                         <p className="card-text mt-3">{service.Duration}</p>
                     </div>
                     <div className="card-footer">
-                        <p className="card-text text-primary "> <strong>{service.CourseFee}</strong> </p>
+                        <p className="card-text  "> <strong>{service.CourseFee}</strong> </p>
                     </div>
                 </div>
             </div>)

@@ -17,7 +17,7 @@ const Service = () => {
          </div>
               <div className="p-5 row row-cols-1 row-cols-md-3 g-4">
             {services.map(service => <div className="col"  key={service.key}>
-                <div className="card h-100">
+                <div className="card h-100 p-3">
               
                     <img src={service.img} className="img-fluid rounded-start" alt="..." />
                     <div className="card-body">
@@ -25,7 +25,7 @@ const Service = () => {
                         <p className="card-text font-italic">{service.About}</p>
                     </div>
                     <div className="card-footer">
-                        <p className="card-text text-primary"> <strong> {service.Duration} <br /> {service.CourseFee} </strong></p>
+                        <p className="card-text"> <strong> {service.Duration} <br /> {service.CourseFee} </strong></p>
                     </div>
                 </div>
             </div>)
