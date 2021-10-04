@@ -1,12 +1,12 @@
 # SAIKAT'S INSTITUTE OF IT
 
-This is a Web Development And Programming Club details app. Which tells you about available Prorammers option with their corresponding price and location
+This is a INSTITUTE OF IT. Which tells you about available Course option with their Details price and location.
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
 
 ## About This Project
 
-In this project we have made a site that shows us programmers demandable price  and sits available numbers. We have used our data base to collect context API.  
+In this project we have made a site that shows us Course  price  and sits available numbers. We have used our data base to collect context API.  
 
 ##Technologies Used for Building the site
 
