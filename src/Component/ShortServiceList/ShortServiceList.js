@@ -69,27 +69,27 @@ const ShortServiceList = () => {
         </div>
       </div>
 
-      <div class="container mt-5 text-center client">
-        <h2 className="mx-auto text-primary">
+      <div className="container mt-5 text-center client">
+        <h2 className="mx-auto text-primary mb-5">
           {" "}
           <strong>Our Top Rated Partner </strong>{" "}
         </h2>
 
-        <div class="container p-3 mt-2 mb-5 rounded shadow bg-body">
-          <div class="row row-cols-1 row-cols-md-3 ">
-            <div class="p-3 m-4 mx-auto col">
-              <div class="">
+        <div className="container p-3 mt-2 mb-5 rounded shadow bg-body">
+          <div className="row row-cols-1 row-cols-md-3 ">
+            <div className="  mx-auto col">
+              <div className="">
                 <img src={partner1} alt="" />
               </div>
             </div>
 
-            <div class="p-3 m-4 mx-auto col ">
-              <div class="">
+            <div className="  mx-auto col ">
+              <div className="">
                 <img src={partner2} alt="" />
               </div>
             </div>
-            <div class="p-3 m-4 mx-auto col ">
-              <div class="">
+            <div className="  mx-auto col ">
+              <div className="">
                 <img src={partner3} alt="" />
               </div>
             </div>

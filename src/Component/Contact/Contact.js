@@ -42,22 +42,22 @@ const Contact = () => {
 
       {/*FAQ Start    */}
 
-      <div class="container">
-        <h2 class="my-5 text-center text-danger">
+      <div className="container">
+        <h2 className="my-5 text-center text-danger">
           {" "}
           <strong>Frequently Asked Questions</strong>{" "}
         </h2>
-        <div class="container d-lg-flex">
-          <div class="mb-3 col-md-6">
+        <div className="container d-lg-flex">
+          <div className="mb-3 col-md-6">
             <img src={faq} width="100%" height="90%" alt="" />
           </div>
 
-          <div class="my-auto col-md-6 ms-4 ">
-            <div class="accordion" id="accordionExample">
-              <div class="mb-3 accordion-item">
-                <h2 class="accordion-header" id="headingOne">
+          <div className="my-auto col-md-6 ms-4 ">
+            <div className="accordion" id="accordionExample">
+              <div className="mb-3 accordion-item">
+                <h2 className="accordion-header" id="headingOne">
                   <button
-                    class="accordion-button"
+                    className="accordion-button"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#collapseOne"
@@ -69,11 +69,11 @@ const Contact = () => {
                 </h2>
                 <div
                   id="collapseOne"
-                  class="accordion-collapse collapse show"
+                  className="accordion-collapse collapse show"
                   aria-labelledby="headingOne"
                   data-bs-parent="#accordionExample"
                 >
-                  <div class="accordion-body">
+                  <div className="accordion-body">
                     <p>
                       {" "}
                       The course fee for different courses vary. You can go to
@@ -83,10 +83,10 @@ const Contact = () => {
                   </div>
                 </div>
               </div>
-              <div class="mb-3 accordion-item">
-                <h2 class="accordion-header" id="headingTwo">
+              <div className="mb-3 accordion-item">
+                <h2 className="accordion-header" id="headingTwo">
                   <button
-                    class="accordion-button collapsed"
+                    className="accordion-button collapsed"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#collapseTwo"
@@ -98,11 +98,11 @@ const Contact = () => {
                 </h2>
                 <div
                   id="collapseTwo"
-                  class="accordion-collapse collapse"
+                  className="accordion-collapse collapse"
                   aria-labelledby="headingTwo"
                   data-bs-parent="#accordionExample"
                 >
-                  <div class="accordion-body">
+                  <div className="accordion-body">
                     <p>
                       You can pay the course fee in three installments maximum
                       after enrolling in the course. Besides we offer discounts
@@ -112,10 +112,10 @@ const Contact = () => {
                   </div>
                 </div>
               </div>
-              <div class="mb-3 accordion-item">
-                <h2 class="accordion-header" id="headingThree">
+              <div className="mb-3 accordion-item">
+                <h2 className="accordion-header" id="headingThree">
                   <button
-                    class="accordion-button collapsed"
+                    className="accordion-button collapsed"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#collapseThree"
@@ -127,11 +127,11 @@ const Contact = () => {
                 </h2>
                 <div
                   id="collapseThree"
-                  class="accordion-collapse collapse"
+                  className="accordion-collapse collapse"
                   aria-labelledby="headingThree"
                   data-bs-parent="#accordionExample"
                 >
-                  <div class="accordion-body">
+                  <div className="accordion-body">
                     <p>
                       We believe in quality of learning. The standard of
                       learning that we offer is worth what you will pay.
@@ -139,10 +139,10 @@ const Contact = () => {
                   </div>
                 </div>
               </div>
-              <div class="mb-3 accordion-item">
-                <h2 class="accordion-header" id="headingThree">
+              <div className="mb-3 accordion-item">
+                <h2 className="accordion-header" id="headingThree">
                   <button
-                    class="accordion-button collapsed"
+                    className="accordion-button collapsed"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#collapseThree"
@@ -154,11 +154,11 @@ const Contact = () => {
                 </h2>
                 <div
                   id="collapseThree"
-                  class="accordion-collapse collapse"
+                  className="accordion-collapse collapse"
                   aria-labelledby="headingThree"
                   data-bs-parent="#accordionExample"
                 >
-                  <div class="accordion-body">
+                  <div className="accordion-body">
                     <p>
                       The minimum required down payment for any course is TK
                       8,500/- and rest of the amount can be paid in

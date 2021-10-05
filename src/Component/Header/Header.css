@@ -4,7 +4,6 @@
   font-size: 22px;
   font-weight: 500;
   color: rgb(255, 255, 255);
-  margin-top: 10px;
   cursor: pointer;
   padding: 5px;
   text-decoration: none;
@@ -31,4 +30,11 @@
 }
 .navbar{
   flex-wrap: nowrap;
+}
+.navbar-button{
+  margin-top:0px !important;
+  margin-bottom: 0px !important;
+}
+.header{
+ padding-left:100px;
 }

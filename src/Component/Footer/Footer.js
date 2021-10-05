@@ -2,7 +2,7 @@ import React from "react";
 import "./Footer.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMapMarkerAlt, faPhoneAlt } from "@fortawesome/free-solid-svg-icons";
-import ReactDOM from "react-dom";
+
 const Footer = () => {
   return (
     <div>
@@ -49,7 +49,7 @@ const Footer = () => {
               </div>
             </div>
           </div>
-          <p className="p-3">
+          <p className="p-2">
             <small>
               ©SAIKAT'S INSTITUTE OF IT. All rights reserved,saikat-2022
             </small>

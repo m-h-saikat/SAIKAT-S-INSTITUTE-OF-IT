@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Contact from "../Contact/Contact";
+
 import ServiceBanner from "../../Image/Coursebanner.jpg";
 import "./Service.css";
 

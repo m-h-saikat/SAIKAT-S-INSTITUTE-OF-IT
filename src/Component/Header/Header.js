@@ -5,8 +5,8 @@ import "./Header.css";
 const Header = () => {
   return (
     <div>
-      <nav className="m-auto navbar navbar-expand-md navbar-dark ">
-        <div className="container ">
+      <nav className=" navbar navbar-expand-md navbar-dark header ">
+        <div className="container  ">
           <img
             className="my-auto logo  ms-5"
             src={Logo}
@@ -32,21 +32,21 @@ const Header = () => {
               <li className="nav-item">
                 <Link to="/Home" className="items">
                   <li>
-                    <button className="btn btn-white me-4 ">Home</button>
+                    <button className="btn btn-white me-4 navbar-button ">Home</button>
                   </li>
                 </Link>{" "}
               </li>
               <li className="nav-item">
                 <Link to="/AboutUs" className="items">
                   <li>
-                    <button className="btn btn-white me-4 ">About</button>
+                    <button className="btn btn-white me-4 navbar-button">About</button>
                   </li>
                 </Link>{" "}
               </li>
               <li className="nav-item">
                 <Link to="/Service" className="items">
                   <li>
-                    <button className="btn btn-white me-4">Course</button>
+                    <button className="btn btn-white me-4 navbar-button">Course</button>
                   </li>
                 </Link>{" "}
               </li>
