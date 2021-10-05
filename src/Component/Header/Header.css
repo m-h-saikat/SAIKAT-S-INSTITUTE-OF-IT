@@ -10,11 +10,13 @@
   text-decoration: none;
 }
 
-.navlink {
+.ul {
   display: flex;
+  margin-right: 20px;
 }
-.header {
+.navbar-dark {
   background-color: rgb(5, 5, 46);
+
 }
 .logo {
   border-radius: 40px;
@@ -26,4 +28,7 @@
   background-color: white;
   border-radius: 30px;
   font-weight: 700;
+}
+.navbar{
+  flex-wrap: nowrap;
 }
