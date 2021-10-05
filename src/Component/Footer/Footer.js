@@ -50,7 +50,9 @@ const Footer = () => {
             </div>
           </div>
           <p className="p-3">
-            <small>Saikat ©All rights reserved.</small>
+            <small>
+              ©SAIKAT'S INSTITUTE OF IT. All rights reserved,saikat-2022
+            </small>
           </p>
         </div>
       </div>

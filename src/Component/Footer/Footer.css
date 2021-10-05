@@ -16,10 +16,10 @@
   background-color: rgb(253, 253, 253);
 }
 .footer-container {
-  background-color: #191919;
+  background-color: rgb(3, 3, 36);
   padding-left: 50px;
   padding-right: 50px;
-  padding-top: 50px;
+  padding-top: 20px;
   color: rgb(216, 209, 209);
 }
 input {

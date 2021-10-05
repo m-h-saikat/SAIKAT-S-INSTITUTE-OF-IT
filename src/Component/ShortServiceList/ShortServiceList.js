@@ -1,6 +1,10 @@
 import React, { useEffect, useState } from "react";
 import "./ShortServiceList.css";
 import image from "../../Image/HomePage (1).jpg";
+import partner1 from "../../Image/member1.png";
+import partner2 from "../../Image/partner8.png";
+import partner3 from "../../Image//partner19.png";
+
 const ShortServiceList = () => {
   const [services, setServices] = useState([]);
 
@@ -23,14 +27,14 @@ const ShortServiceList = () => {
               </b>
             </h1>
             <p>
-              SAIKAT'S INSTITUTE OF IT ,a famous computer training school in
-              Dhaka. It’s an ideal training Institute for Learner’s to design
-              their carrier with the combination of their ambition to make them
-              a successful skilled person with a stunning and bright future.It
-              was established in 7th January 2012 in a small premises with the
-              inspiration of an wonderful creative person SAIKAT, the Executive
-              Director of SAIKAT'S INSTITUTE OF IT, Which was a dream project of
-              him.
+              SAIKAT'S INSTITUTE OF IT , one of the leading IT training
+              institutes in Bangladesh offers the best training opportunities.
+              It has been playing a vital role to eradicate the unemployment
+              problem since 2008. Enriched with quality training this institute
+              has never failed to help the individuals to reveal their talents
+              making harmony between creativity and IT. No matter what is your
+              background, we are offering 30 courses for you conducted by
+              experienced trainers to advance your skills.
             </p>
           </div>
         </div>
@@ -56,13 +60,40 @@ const ShortServiceList = () => {
                 </div>
                 <div className="card-footer">
                   <p className="card-text  ">
-                 
                     <strong>{service.CourseFee}</strong>
                   </p>
                 </div>
               </div>
             </div>
           ))}
+        </div>
+      </div>
+
+      <div class="container mt-5 text-center client">
+        <h2 className="mx-auto text-primary">
+          {" "}
+          <strong>Our Top Rated Partner </strong>{" "}
+        </h2>
+
+        <div class="container p-3 mt-2 mb-5 rounded shadow bg-body">
+          <div class="row row-cols-1 row-cols-md-3 ">
+            <div class="p-3 m-4 mx-auto col">
+              <div class="">
+                <img src={partner1} alt="" />
+              </div>
+            </div>
+
+            <div class="p-3 m-4 mx-auto col ">
+              <div class="">
+                <img src={partner2} alt="" />
+              </div>
+            </div>
+            <div class="p-3 m-4 mx-auto col ">
+              <div class="">
+                <img src={partner3} alt="" />
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>

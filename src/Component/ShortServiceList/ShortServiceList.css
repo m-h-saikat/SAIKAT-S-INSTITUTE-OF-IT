@@ -1,19 +1,14 @@
-
-  .Home-Section{
-    background-color: #171C5E;
-    color: #fff;
-    font-size:1.3em;
-  }
-  .card:hover{
-   
-    border-color: #171C5E;
-    border-width: 2px;
-  
-
-  }
-  .card-footer{
-    background-color: rgb(5, 5, 46);
-    color:white;
-    font-size:1.1em;
-  }
- 
+.Home-Section {
+  background-color: #171c5e;
+  color: #fff;
+  font-size: 1.3em;
+}
+.card:hover {
+  border-color: #171c5e;
+  border-width: 2px;
+}
+.card-footer {
+  background-color: rgb(5, 5, 46);
+  color: white;
+  font-size: 1.1em;
+}
